@@ -1,0 +1,11 @@
+body {
+    background: wheat;
+    background-color: azure; 
+  }
+  
+  .bg-image {
+    background-image: url(imgs/logonoback.png);
+    background-size: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+  }

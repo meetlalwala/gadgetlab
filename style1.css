@@ -1,0 +1,13 @@
+.slide-container{
+    overflow: auto;
+    white-space: nowrap;
+}
+
+#itembox{
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 20px;
+    width: 500px;
+    height: 200px;
+
+}
